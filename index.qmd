@@ -1,3 +1,17 @@
+---
+toc: false
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/jade-gregory-684b07205/
+    - icon: github
+      text: Github
+      url: https://github.com/LaLunaDeLaSierra
+image: linkedinprofpic.JPG
+---
+
 ## About Jade Gregory
 
 I am currently a fourth-year student at the University of California, Los Angeles where I am majoring in Statistics and Data Science. I have an expected graduation date of June 2024 and currently have a 3.5 GPA. My education, internships and leadership involvement have prepared me to thrive in innovative and data-driven environments. I hope to contribute my technical aptitude, attention to detail and critical thinking in a position where I can make a positive impact.

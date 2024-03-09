@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "CV"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+Find my CV/Resume here:
