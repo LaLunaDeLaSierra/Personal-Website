@@ -2,13 +2,15 @@ project:
   type: website
 
 website:
+  open-graph: true
+
   navbar:
     left:
       - href: index.qmd
         text: About
       - href: about.qmd
         text: CV/Resume
-  
+        
   page-footer:
     right: "&copy; 2024, Jade Gregory"
 
