@@ -1,5 +1,9 @@
 ---
-title: "CV"
+title: "CV/Resume"
 ---
 
-Find my CV/Resume here:
+Find my CV and Resume attached below:
+
+[CV](/docs/CV/CV.pdf "CV")
+
+[Resume](/docs/CV/JadeGregoryResume.pdf "Resume")

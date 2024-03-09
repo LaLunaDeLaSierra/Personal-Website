@@ -9,6 +9,9 @@ about:
     - icon: github
       text: Github
       url: https://github.com/LaLunaDeLaSierra
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:jadegregory@g.ucla.edu"
 image: linkedinprofpic.JPG
 ---
 
