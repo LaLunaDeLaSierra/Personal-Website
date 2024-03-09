@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 633ecec0-7f9c-4be2-91c8-616789fe6312
+      url: 'https://splendorous-queijadas-442b6d.netlify.app'
